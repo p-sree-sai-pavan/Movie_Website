@@ -16,9 +16,23 @@
 
 ### 🔗 [Live Demo](https://p-sree-sai-pavan.github.io/Movie_Website/) | [View Repository](https://github.com/p-sree-sai-pavan/Movie_Website)
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Connect](#-connect-with-me)
+[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#️-tech-stack) • [Connect](#-connect-with-me)
 
 </div>
+
+---
+
+## 📖 Introduction
+
+Welcome to **Plex Movies** — a fully responsive, Netflix-inspired movie discovery platform built entirely with vanilla **HTML**, **CSS**, and **JavaScript**. This project demonstrates modern frontend development skills without relying on any external frameworks.
+
+> 🎯 **Project Goal:** Create an immersive movie browsing experience with smooth animations, dynamic content loading from a REST API, and an intuitive user interface that works seamlessly across all devices.
+
+### Why This Project?
+- 🚀 **No Dependencies** — Pure vanilla code showcasing core web development fundamentals
+- 🎨 **Modern Design** — Premium dark theme with Netflix-like aesthetics
+- ⚡ **Dynamic Content** — Real movie data fetched from a live API
+- 📱 **Fully Responsive** — Optimized for desktop, tablet, and mobile devices
 
 ---
 
@@ -137,7 +151,7 @@ cd Movie_Website
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
