@@ -14,7 +14,7 @@
 
 ---
 
-### 🔗 [Live Demo](https://p-sree-sai-pavan.github.io/Alcher-Task-1/) | [View Repository](https://github.com/p-sree-sai-pavan/Alcher-Task-1)
+### 🔗 [Live Demo](https://p-sree-sai-pavan.github.io/Movie_Website/) | [View Repository](https://github.com/p-sree-sai-pavan/Movie_Website)
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Connect](#-connect-with-me)
 
@@ -97,7 +97,7 @@
 
 ## 🚀 Demo
 
-### 🌐 [**Click here to view the Live Demo →**](https://p-sree-sai-pavan.github.io/Alcher-Task-1/)
+### 🌐 [**Click here to view the Live Demo →**](https://p-sree-sai-pavan.github.io/Movie_Website/)
 
 | Page | Description |
 |------|-------------|
@@ -113,17 +113,17 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/p-sree-sai-pavan/Alcher-Task-1.git
+git clone https://github.com/p-sree-sai-pavan/Movie_Website.git
 
 # 2. Navigate to the project directory
-cd Alcher-Task-1
+cd Movie_Website
 
 # 3. Open in browser
 # Simply open index.html in your preferred browser
 # Or use a local server like Live Server (VS Code Extension)
 ```
 
-> 💡 **Tip:** Or just visit the [**Live Demo**](https://p-sree-sai-pavan.github.io/Alcher-Task-1/) to try it instantly!
+> 💡 **Tip:** Or just visit the [**Live Demo**](https://p-sree-sai-pavan.github.io/Movie_Website/) to try it instantly!
 
 ---
 
